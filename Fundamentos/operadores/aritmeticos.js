@@ -17,3 +17,4 @@ console.log(a - b);
 console.log(a * b);
 console.log(a / b);
 console.log(a % b);
+let c = 5;
